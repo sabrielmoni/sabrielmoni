@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @sabrielmoni
-- 👀 I’m interested in machine learning, neuroscience and books 
+- 👋 Hi, I’m Sabrina Elmoni
+- 👀 I’m interested in machine learning, neuroscience and books
 
-- 🌱 I’m currently learning data analysis and visualization.
+- 🌱 I’m currently learning mobile development
   I'm new at this and I look forward to sharing my upcoming projects with you!
   
 - 📫 How to reach me ...
