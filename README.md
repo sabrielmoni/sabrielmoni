@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Sabrina Elmoni
-- 👀 I’m interested in mobile development, AI, neuroscience, and books
+- 👀 I’m interested in AI, neuroscience, and books
 
 🌱 What I’m working on
 - Thesis: An AI-powered reading companion app that offers personalized book recommendations and a community platform for readers.
